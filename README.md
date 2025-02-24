@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Saad Naeem
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning machine learning and Data Analysis
+- 🌱 I’m currently learning Deep Learning and Computer vision
+  
 
 
 <!---
